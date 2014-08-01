@@ -1,0 +1,11 @@
+{
+  "author": "Luis Martins",
+  "name": "tuts",
+  "version": "0.1.0",
+  "dependencies": {
+    "angular": "1.2.0-rc.2",
+    "angular-route": "~1.2.21",
+    "angular-sanitize": "~1.2.21",
+    "angular-resource": "~1.2.21"
+  }
+}
